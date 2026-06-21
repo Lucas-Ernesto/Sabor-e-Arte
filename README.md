@@ -107,13 +107,4 @@ O tema escolhido foi o Sistema de Restaurante, com o cenário fictício **Sabor 
 
 ---
 
-## 📁 Entregáveis Acadêmicos
-
-Além do código-fonte, o projeto inclui:
-
-- 📄 Documentação Técnica Acadêmica (ABNT)
-- 📊 Diagrama de Classes UML (PDF)
-
----
-
-*Desenvolvido por [Seu Nome] — ADS, Campo Grande - MS*
+*Desenvolvido por Lucas Ernesto Lacerda da Silva — ADS, Campo Grande - MS*
